@@ -3,13 +3,13 @@
 <!-- Typing Header -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/Vigneshpk6/Vigneshpk6/main/ChatGPT%20Image%20Dec%2012%2C%202025%2C%2011_14_49%20PM.png" width="100%" />
 </p>
 
 <!-- Custom Banner -->
 
 <p align="center">
-  <img src="https://i.imgur.com/6Z8xQxJ.png" width="85%" />
+  <img src="https://i./6Z8xQxJ.png" width="85%" />
 </p>
 
 <p align="center">
