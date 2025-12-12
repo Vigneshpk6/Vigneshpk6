@@ -3,7 +3,7 @@
 <!-- Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF9C&center=true&vCenter=true&width=600&lines=Data+Scientist;Python+Backend+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;FastAPI+%7C+Django+Developer" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.gif" width="80%" />
 </p>
 
 <!-- Custom Banner -->
@@ -78,12 +78,12 @@
 ## 📌 Featured Projects
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> Amazon Prime Data Analysis<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> IPL Cricket Analytics<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30" /> Bike Showroom Sales Dashboard<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30" /> Budget Analysis Dashboard<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" /> Speech Enhancement Deep Learning<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" /> Django Restaurant Review System
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> <img src="https://cdn-icons-png.flaticon.com/128/2983/2983788.png" width="20" /> Amazon Prime Data Analysis<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> <img src="https://cdn-icons-png.flaticon.com/128/10480/10480396.png" width="20" /> IPL Cricket Analytics<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30" /> <img src="https://cdn-icons-png.flaticon.com/128/2972/2972185.png" width="22" /> Bike Showroom Sales Dashboard<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30" /> <img src="https://cdn-icons-png.flaticon.com/128/1170/1170576.png" width="22" /> Budget Analysis Dashboard<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" /> <img src="https://cdn-icons-png.flaticon.com/128/762/762687.png" width="22" /> Speech Enhancement Deep Learning<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" /> <img src="https://cdn-icons-png.flaticon.com/128/857/857681.png" width="22" /> Django Restaurant Review System
 </p>
 - Amazon Prime Data Analysis — EDA, visualizations, insights
 - IPL Cricket Analytics — match-level feature engineering & models
@@ -116,7 +116,7 @@ print(nlp('I love working on ML projects!'))
 ## 📫 Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/vigneshpk6" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vigneshpk6/?trk=github-profile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
   <a href="mailto:vigneshpk066@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" /></a>
 </p>
 
@@ -144,5 +144,4 @@ print(nlp('I love working on ML projects!'))
 - **LinkedIn:** your-linkedin-here
 
 ---
-
 
