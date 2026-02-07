@@ -2,6 +2,13 @@
 
 <!-- Typing Header -->
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Vigneshpk6/Vigneshpk6/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vigneshpk6/Vigneshpk6/main/ChatGPT%20Image%20Dec%2012%2C%202025%2C%2011_14_49%20PM.png" width="100%" />
 </p>
